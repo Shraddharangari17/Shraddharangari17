@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shraddha Rangari 👋
 
-<!--
-**Shraddharangari17/Shraddharangari17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with on-site experience in building AI-driven ERP and automation systems.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- Software Engineer Intern at Primine Software Solutions (On-site)
+- Working on Agentic AI, Predictive Modeling, and ERP systems
+- Strong foundation in Data Structures, OOP, and system design
+- Interested in building scalable and intelligent enterprise software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- Languages: Python, Java, JavaScript, SQL, C++
+- AI/ML: Machine Learning, Predictive Modeling, Agentic AI
+- Backend: Node.js, Express.js, REST APIs
+- Databases: MySQL, MongoDB
+- Tools: Git, GitHub, Azure (Basics)
+
+## 📌 Featured Projects
+- ALTER – AI Assistant & Automation System
+- Distribution Delay Prediction Model
+- AI-driven ERP & Agentic Automation (Industry Project)
+
+📫 Reach me: shraddharangari70@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/shraddha-rangari-9730958782
